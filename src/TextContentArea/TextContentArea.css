@@ -1,0 +1,8 @@
+.TextContentArea {
+    display: block;
+    flex:1;
+    height: 100%;
+    width: 100%;
+    margin: 0 auto;
+    border: maroon 3px solid;
+}
