@@ -1,22 +1,17 @@
 .App {
   text-align: center;
-  border: maroon solid 3px;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+  border: #e1b382 solid 3px;
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #2d545e;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: cornsilk;
 }
 
 .App-link {

@@ -4,5 +4,6 @@
     height: 100%;
     width: 100%;
     margin: 0 auto;
-    border: maroon 3px solid;
+    background-image: linear-gradient(#e1b382,#c89666);
+    box-shadow: 5px 5px #12343b;
 }
