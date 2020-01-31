@@ -8,9 +8,9 @@ const Projects = [
     },
     {
         title: "React Pantry",
-        photo: "",
+        photo: "https://i.imgur.com/7VZmLEM.png",
         description: "A fun pantry tracker to allow you to keep of when the things that you buy at the grocery store expires",
-        deployment: ""
+        deployment: "https://reactpantry.herokuapp.com/"
 
     },
     {
