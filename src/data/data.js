@@ -2,14 +2,21 @@ const Projects = [
     {
         title: "Software Engineer",
         photo: "https://i.imgur.com/93zbVYs.jpg?1",
-        description: "My name is Blaine Shelton I am a passionate developer looking to deploy not only apps but hAPPiness to everyone everywhere. HIRE ME NAOW",
+        description: "Hello My name is Blaine Shelton",
         deployment: "https://www.linkedin.com/in/rblaineshelton/"
+
+    },
+    {
+        title: "React Pantry",
+        photo: "",
+        description: "A fun pantry tracker to allow you to keep of when the things that you buy at the grocery store expires",
+        deployment: ""
 
     },
     {
         title: "Sudoku",
         photo: "https://i.imgur.com/nB8T4SS.png",
-        description: "A simple website to play the most relaxing an imfuriating game created!",
+        description: "A simple website to play the most relaxing an imfuriating game created! All created in Javscript!",
         deployment: "https://hobby-collector.github.io/Sudoku-web-implementation"
 
     },
@@ -22,13 +29,13 @@ const Projects = [
     {
         title: "Mastermind",
         photo: "https://i.imgur.com/3YQdsER.png",
-        description: "A react version of the classic game Mastermind! guess the right colors in the right place and you win! ",
+        description: "A react version of the classic game Mastermind! guess the right colors in the right place and you win! built using the full MERN stack. ",
         deployment: "this is a url"
     },
     {
         title: "Finch Collector",
         photo: "https://i.imgur.com/6EOqpc7.png",
-        description: "A fun toy app for tracking your collection of Finches!",
+        description: "A fun app for tracking your collection of Finches! Built using Python and Django!",
         deployment: "https://github.com/Hobby-Collector/FinchCollector/tree/master/finchcollector"
     }
 ]

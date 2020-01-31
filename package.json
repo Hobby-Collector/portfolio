@@ -11,13 +11,16 @@
     "react-dom": "^16.12.0",
     "react-image-gallery": "^1.0.5",
     "react-photo-gallery": "^8.0.0",
-    "react-scripts": "3.3.0"
+    "react-scripts": "3.3.0",
+    "sed": "0.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -33,5 +36,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
+  },
+  "homepage": "http://Hobby-Collector.github.io/portfolio"
 }
