@@ -8,7 +8,7 @@ const Projects = [
     },
     {
         title: "React Pantry",
-        photo: "https://i.imgur.com/7VZmLEM.png",
+        photo: "https://i.imgur.com/h84e0ck.png",
         description: "A fun pantry tracker to allow you to keep of when the things that you buy at the grocery store expires",
         deployment: "https://reactpantry.herokuapp.com/"
 
@@ -22,7 +22,7 @@ const Projects = [
     },
     {
         title: "Yoyo Contest Judging",
-        photo: "https://i.imgur.com/R5s0EhS.png",
+        photo: "https://i.imgur.com/AIDiSwL.png",
         description: " A simple web app to fix a major problem in the yoyoing community to bring yoyo contests from paper to a multipage web app using Javascript mongoose",
         deployment: "http://yoyo-contests.herokuapp.com/"
     },
@@ -30,7 +30,7 @@ const Projects = [
         title: "Mastermind",
         photo: "https://i.imgur.com/3YQdsER.png",
         description: "A react version of the classic game Mastermind! guess the right colors in the right place and you win! built using the full MERN stack. ",
-        deployment: "this is a url"
+        deployment: "#"
     },
     {
         title: "Finch Collector",

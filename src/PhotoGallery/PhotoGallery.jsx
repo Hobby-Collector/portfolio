@@ -21,7 +21,7 @@ class PhotoGallery extends Component {
     renderTextContent = () =>{
         const { Projects, ActiveIndex } = this.state;
         if (Projects.length) {
-            return <TextContentArea Active={Projects[ActiveIndex]} />
+            return <TextContentArea className= "col" Active={Projects[ActiveIndex]} />
         }
     }
 
@@ -34,6 +34,7 @@ class PhotoGallery extends Component {
         return (
             <div className='PhotoGallery'>
                 <Photos
+                    className= "col"
                     Projects={this.state.Projects}
                     renderPhotos={this.renderPhotos()}
                     handleClick = {this.handleClick}

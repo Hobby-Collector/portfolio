@@ -1,7 +1,10 @@
 .PhotoGallery {
     display: flex;
-    flex: 1;
     height:80%;
     width: 80%;
-    margin: 0 auto;
+    margin: 0 auto 1rem auto;
+}
+
+.col {
+    flex: 1;
 }

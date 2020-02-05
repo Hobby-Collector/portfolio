@@ -2,7 +2,9 @@
     display: grid;
     grid-template-rows: 1/2 2/3;
     flex:1;
-    height: 50%;
+    height: 100%;
     width: 33%;
-    margin: 0 auto;
+    margin: 0 2rem auto auto;
+    background-image: linear-gradient(#e1b382,#c89666);
+    box-shadow: 5px 5px #12343b;
 }
